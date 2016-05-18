@@ -1,0 +1,2 @@
+command line is how humans can interact with the computer, by using simple text or 'commands' we can run different programs or check on the computers status.
+ls = list the directory cd = change the directory, cp = copy files, shutdown = will shut the system off, mv = move files/rename files, locate = is a fast search of files, cd = change directory, rm = remove/delete files,
